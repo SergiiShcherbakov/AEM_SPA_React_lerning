@@ -75,27 +75,27 @@
               ":items": {
                 "text": {
                   "id": "text-a647cec03a",
-                  "text": "<p>Hello World! Test</p>\r\n",
+                  "text": "<p>Hello World! </p>\r\n",
                   "richText": true,
                   ":type": "wknd-spa-react/components/text",
                   "dataLayer": {
                     "text-a647cec03a": {
                       "@type": "wknd-spa-react/components/text",
                       "repo:modifyDate": "2021-12-14T16:09:40Z",
-                      "xdm:text": "<p>Hello World! Test</p>\r\n"
+                      "xdm:text": "<p>Hello World! </p>\r\n"
                     }
                   }
                 },
                 "text_496731813": {
                   "id": "text-9b9a6c9fe2",
-                  "text": "<p>Test second component!</p>\r\n",
+                  "text": "<p>Test second component!1111</p>\r\n",
                   "richText": true,
                   ":type": "wknd-spa-react/components/text",
                   "dataLayer": {
                     "text-9b9a6c9fe2": {
                       "@type": "wknd-spa-react/components/text",
                       "repo:modifyDate": "2021-12-14T16:15:09Z",
-                      "xdm:text": "<p>Test second component!</p>\r\n"
+                      "xdm:text": "<p>Test second component!!!</p>\r\n"
                     }
                   }
                 }
