@@ -20,6 +20,7 @@ import './Container/Container';
 import './ExperienceFragment/ExperienceFragment';
 import './Image/Image'
 import './OpenWeather/OpenWeather'
+import './Banner/Banner'
 
 import {MapTo} from '@adobe/aem-react-editable-components';
 
